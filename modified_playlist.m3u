@@ -1,0 +1,1142 @@
+#EXTM3U url-tvg="https://github.com/dtp80/test02/raw/main/files/src/DikoPlusEPG.xml.gz"
+#EXTM3U url-tvg="https://github.com/dtp80/test02/raw/main/files/src/DikoPlusEPG.xml.gz"
+
+#EXTINF:-1 tvg-id="kan-11-YES" tvg-logo="https://MizaPo.github.io/picons/light/Kan-11.png",כאן 11
+#EXTGRP:ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477573
+
+#EXTINF:-1 tvg-id="kan-11-YES" tvg-logo="https://MizaPo.github.io/picons/light/Kan-11.png",כאן 11
+#EXTGRP:ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832349
+
+#EXTINF:-1 tvg-id="kan-11-YES" tvg-logo="https://MizaPo.github.io/picons/light/Kan-11.png",כאן 11
+#EXTGRP:ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/825513
+
+#EXTINF:-1 tvg-id="kan-11-YES" tvg-logo="https://MizaPo.github.io/picons/light/Kan-11.png",כאן 11
+#EXTGRP:ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/669787
+
+#EXTINF:-1 tvg-id="keshet-12-YES" tvg-logo="https://MizaPo.github.io/picons/light/Keshet-12.png",קשת 12
+#EXTGRP:ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477575
+
+#EXTINF:-1 tvg-id="keshet-12-YES" tvg-logo="https://MizaPo.github.io/picons/light/Keshet-12.png",קשת 12
+#EXTGRP:ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/825514
+
+#EXTINF:-1 tvg-id="keshet-12-YES" tvg-logo="https://MizaPo.github.io/picons/light/Keshet-12.png",קשת 12
+#EXTGRP:ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/669786
+
+#EXTINF:-1 tvg-id="reshet-13-YES" tvg-logo="https://MizaPo.github.io/picons/light/Reshet-13.png",רשת 13
+#EXTGRP:ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477574
+
+#EXTINF:-1 tvg-id="reshet-13-YES" tvg-logo="https://MizaPo.github.io/picons/light/Reshet-13.png",רשת 13
+#EXTGRP:ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/669785
+
+#EXTINF:-1 tvg-id="reshet-13-YES" tvg-logo="https://MizaPo.github.io/picons/light/Reshet-13.png",רשת 13
+#EXTGRP:ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832347
+
+#EXTINF:-1 tvg-id="reshet-13-YES" tvg-logo="https://MizaPo.github.io/picons/light/Reshet-13.png",רשת 13
+#EXTGRP:ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/825515
+
+#EXTINF:-1 tvg-id="now-14-YES" tvg-logo="https://MizaPo.github.io/picons/light/Channel-14.png",ערוץ 14
+#EXTGRP:ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477572
+
+#EXTINF:-1 tvg-id="now-14-YES" tvg-logo="https://MizaPo.github.io/picons/light/Channel-14.png",ערוץ 14
+#EXTGRP:ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832346
+
+#EXTINF:-1 tvg-id="now-14-YES" tvg-logo="https://MizaPo.github.io/picons/light/Channel-14.png",ערוץ 14
+#EXTGRP:ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/825516
+
+#EXTINF:-1 tvg-id="now-14-YES" tvg-logo="https://MizaPo.github.io/picons/light/Channel-14.png",ערוץ 14
+#EXTGRP:ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/669784
+
+#EXTINF:-1 tvg-id="i24-news-he-YES" tvg-logo="https://MizaPo.github.io/picons/light/i24.png",i24 חדשות
+#EXTGRP:ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/889906
+
+#EXTINF:-1 tvg-id="walla-plus-YES" tvg-name="IL: PARTNER TV WALLA +" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Walla-Plus.png",ערוץ וואלה+
+#EXTGRP:✡️ ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822238
+
+#EXTINF:-1 tvg-id="channel-98-YES" tvg-name="IL: YES 98 4K" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Channel-98.png",ערוץ 98
+#EXTGRP:✡️ ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/880459
+
+#EXTINF:-1 tvg-id="knesset-99-YES" tvg-name="IS: YES KNSEET 4K" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Knesset.png",ערוץ הכנסת
+#EXTGRP:✡️ ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477567
+
+#EXTINF:-1 tvg-id="knesset-99-YES" tvg-name="IL: SCREEN TV KNESET" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Knesset.png",ערוץ הכנסת
+#EXTGRP:✡️ ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/825512
+
+#EXTINF:-1 tvg-id="knesset-99-YES" tvg-name="IL: KNSSET" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Knesset.png",ערוץ הכנסת
+#EXTGRP:✡️ ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832341
+
+#EXTINF:-1 tvg-id="hidabrut-YES" tvg-logo="https://MizaPo.github.io/picons/light/Hidabrut.png",ערוץ ההידברות
+#EXTGRP:ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832319
+
+#EXTINF:-1 tvg-id="kabbalah-HOT" tvg-name="IS: YES CH 66 4K" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Kabalah.png",קבלה לעם
+#EXTGRP:✡️ ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477566
+
+#EXTINF:-1 tvg-id="kabbalah-HOT" tvg-name="IS: CHANNEL 66 4K" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Kabalah.png",קבלה לעם
+#EXTGRP:✡️ ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/669782
+
+
+#EXTINF:-1 tvg-id="movies-comedy-YES" tvg-logo="https://MizaPo.github.io/picons/light/Yes-Movies-Comedy.png",יס סרטים קומדיה
+#EXTGRP:ערוצי יס
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477550
+
+#EXTINF:-1 tvg-id="movies-comedy-YES" tvg-logo="https://MizaPo.github.io/picons/light/Yes-Movies-Comedy.png",יס סרטים קומדיה
+#EXTGRP:ערוצי יס
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/669765
+
+#EXTINF:-1 tvg-id="cinema-3-HOT" tvg-logo="https://MizaPo.github.io/picons/light/HOT-C3.png",הוט סינמה 3
+#EXTGRP:ערוצי הוט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/603175
+
+#EXTINF:-1 tvg-id="movies-comedy-FREETV" tvg-logo="https://MizaPo.github.io/picons/light/FreeTV-Movies-Comedy.png",פרי טיוי סרטים קומדיה
+#EXTGRP:ערוצי פרי טיוי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822206
+
+#EXTINF:-1 tvg-id="movies-action-YES" tvg-logo="https://MizaPo.github.io/picons/light/Yes-Movies-Action.png",יס סרטים פעולה
+#EXTGRP:ערוצי יס
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477551
+
+#EXTINF:-1 tvg-id="movies-action-YES" tvg-logo="https://MizaPo.github.io/picons/light/Yes-Movies-Action.png",יס סרטים פעולה
+#EXTGRP:ערוצי יס
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/669764
+
+#EXTINF:-1 tvg-id="cinema-1-HOT" tvg-logo="https://MizaPo.github.io/picons/light/HOT-C1.png",הוט סינמה 1
+#EXTGRP:ערוצי הוט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/603177
+
+#EXTINF:-1 tvg-id="cinema-2-HOT" tvg-logo="https://MizaPo.github.io/picons/light/HOT-C2.png",הוט סינמה 2
+#EXTGRP:ערוצי הוט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/603176
+
+#EXTINF:-1 tvg-id="movies-action-FREETV" tvg-logo="https://MizaPo.github.io/picons/light/FreeTV-Movies-Action.png",פרי טיוי סרטים פעולה
+#EXTGRP:ערוצי פרי טיוי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822207
+
+#EXTINF:-1 tvg-id="movies-PARTNER" tvg-logo="https://MizaPo.github.io/picons/light/Partner-Sratim.png",פרטנר סרטים
+#EXTGRP:סלקום & פרטנר
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822250
+
+#EXTINF:-1 tvg-id="sratim-CELLCOM" tvg-logo="https://MizaPo.github.io/picons/light/Cellcom-TV.png",סלקום סרטים
+#EXTGRP:סלקום & פרטנר
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832356
+
+#EXTINF:-1 tvg-id="movies-family-FREETV" tvg-logo="https://MizaPo.github.io/picons/light/FreeTV-Movies-Family.png",פרי טיוי סרטים משפחה
+#EXTGRP:ערוצי פרי טיוי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/912591
+
+#EXTINF:-1 tvg-id="family-CELLCOM" tvg-name="IL: FAMILY" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Cellcom-Family.png",סלקום משפחה
+#EXTGRP:🎥 סרטים
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832354
+
+#EXTINF:-1 tvg-id="plus-cinema-YES" tvg-name="IS: YES + CINEMA HD" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Yes-Plus-Cinema.png",יס פלוס סינמה
+#EXTGRP:🎥 סרטים
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/831474
+
+#EXTINF:-1 tvg-id="plus-diamonds-YES" tvg-name="IS: YES + DIAMONDS HD" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Yes-Plus-Diamonds.png",יס פלוס יהלומים
+#EXTGRP:🎥 סרטים
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/831472
+
+#EXTINF:-1 tvg-id="movies-drama-YES" tvg-logo="https://MizaPo.github.io/picons/light/Yes-Movies-Drama.png",יס סרטים דרמה
+#EXTGRP:ערוצי יס
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477552
+
+#EXTINF:-1 tvg-id="movies-drama-YES" tvg-logo="https://MizaPo.github.io/picons/light/Yes-Movies-Drama.png",יס סרטים דרמה
+#EXTGRP:ערוצי יס
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/669763
+
+#EXTINF:-1 tvg-id="cinema-4-HOT" tvg-logo="https://MizaPo.github.io/picons/light/HOT-C4.png",הוט סינמה 4
+#EXTGRP:ערוצי הוט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/603174
+
+#EXTINF:-1 tvg-id="movies-drama-FREETV" tvg-logo="https://MizaPo.github.io/picons/light/FreeTV-Movies-Drama.png",פרי טיוי סרטים דרמה
+#EXTGRP:ערוצי פרי טיוי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822205
+
+#EXTINF:-1 tvg-id="movies-horror-FREETV" tvg-logo="https://MizaPo.github.io/picons/light/FreeTV-Movies-Horror.png",פרי טיוי סרטים אימה
+#EXTGRP:ערוצי פרי טיוי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822204
+
+#EXTINF:-1 tvg-id="movies-romantic-FREETV" tvg-logo="https://MizaPo.github.io/picons/light/FreeTV-Movies-Romantic.png",פרי טיוי סרטים רומנטיקה
+#EXTGRP:ערוצי פרי טיוי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822199
+
+#EXTINF:-1 tvg-id="israeli-cinema-YES" tvg-logo="https://MizaPo.github.io/picons/light/Yes-Israeli.png",יס קולנוע ישראלי
+#EXTGRP:ערוצי יס
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477545
+
+#EXTINF:-1 tvg-id="israeli-cinema-HOT" tvg-logo="https://MizaPo.github.io/picons/light/HOT-Israeli-Cinema.png",הוט קולנוע ישראלי
+#EXTGRP:ערוצי הוט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/670518
+
+#EXTINF:-1 tvg-id="movies-israeli-FREETV" tvg-logo="https://MizaPo.github.io/picons/light/FreeTV-Movies-Israeli.png",פרי טיוי סרטים ישראלי
+#EXTGRP:ערוצי פרי טיוי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822203
+
+#EXTINF:-1 tvg-id="israeli-cinema-PARTNER" tvg-name="IL: PARTNER TV ISRAEL" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Partner-Israeli-Cinema.png",פרטנר קולנוע ישראלי
+#EXTGRP:🎥 סרטים
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822251
+
+#EXTINF:-1 tvg-id="movies-kids-YES" tvg-logo="https://MizaPo.github.io/picons/light/Yes-Movies-Kids.png",יס סרטים ילדים
+#EXTGRP:ערוצי יס
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477549
+
+#EXTINF:-1 tvg-id="movies-kids-YES" tvg-logo="https://MizaPo.github.io/picons/light/Yes-Movies-Kids.png",יס סרטים ילדים
+#EXTGRP:ערוצי יס
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/669766
+
+#EXTINF:-1 tvg-id="cinema-family-HOT" tvg-logo="https://MizaPo.github.io/picons/light/HOT-Cinema-Family.png",הוט סינמה משפחה
+#EXTGRP:ערוצי הוט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/670504
+
+#EXTINF:-1 tvg-id="kids-PARTNER" tvg-logo="https://MizaPo.github.io/picons/light/Partner-Kids.png",פרטנר ילדים
+#EXTGRP:סלקום & פרטנר
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822248
+
+#EXTINF:-1 tvg-id="yeladim-CELLCOM" tvg-logo="https://MizaPo.github.io/picons/light/Cellcom-TV.png",סלקום ילדים
+#EXTGRP:סלקום & פרטנר
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832353
+
+#EXTINF:-1 tvg-id="netflix-PARTNER" tvg-name="IL: PARTNER TV NETFLIX" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Netflix.png",נטפליקס פרומו
+#EXTGRP:🎥 סרטים
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822246
+
+#EXTINF:-1 tvg-id="now-CELLCOM" tvg-name="IL: NOW" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Cellcom-TV.png",עכשיו בסלקום
+#EXTGRP:🎥 סרטים
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832357
+
+#EXTINF:-1 tvg-id="humor-channel-YES" tvg-logo="https://MizaPo.github.io/picons/light/Humor-Channel.png",ערוץ ההומור
+#EXTGRP:תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/876641
+
+#EXTINF:-1 tvg-id="eretz-nehederet-FREETV" tvg-logo="https://MizaPo.github.io/picons/light/FreeTV-Eretz-Nehederet.png",פרי טיוי ארץ נהדרת
+#EXTGRP:ערוצי פרי טיוי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822194
+
+#EXTINF:-1 tvg-id="savri-maranan-FREETV" tvg-logo="https://MizaPo.github.io/picons/light/FreeTV-Savri-Maranan.png",פרי טיוי סברי מרנן
+#EXTGRP:ערוצי פרי טיוי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822198
+
+#EXTINF:-1 tvg-id="classic-comedies-YES" tvg-name="IL: PARTNER TV COMDEY CLASSIC" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Classic-Comedies.png",ערוץ הקומדיות הקלאסיות
+#EXTGRP:📺 סדרות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822247
+
+#EXTINF:-1 tvg-id="tv-comedy-YES" tvg-logo="https://MizaPo.github.io/picons/light/Yes-TV-Comedy.png",יס סדרות קומדיה
+#EXTGRP:ערוצי יס
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477547
+
+#EXTINF:-1 tvg-id="tv-comedy-YES" tvg-logo="https://MizaPo.github.io/picons/light/Yes-TV-Comedy.png",יס סדרות קומדיה
+#EXTGRP:ערוצי יס
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/669768
+
+#EXTINF:-1 tvg-id="comedy-HOT" tvg-logo="https://MizaPo.github.io/picons/light/HOT-Comedy-Central.png",הוט קומדי סנטרל
+#EXTGRP:ערוצי הוט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/664701
+
+#EXTINF:-1 tvg-id="tv-comedy-FREETV" tvg-logo="https://MizaPo.github.io/picons/light/FreeTV-Comedy.png",פרי טיוי סדרות קומדיה
+#EXTGRP:ערוצי פרי טיוי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822201
+
+#EXTINF:-1 tvg-id="tv-action-YES" tvg-logo="https://MizaPo.github.io/picons/light/Yes-TV-Action.png",יס סדרות פעולה
+#EXTGRP:ערוצי יס
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477548
+
+#EXTINF:-1 tvg-id="tv-action-YES" tvg-logo="https://MizaPo.github.io/picons/light/Yes-TV-Action.png",יס סדרות פעולה
+#EXTGRP:ערוצי יס
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/669767
+
+#EXTINF:-1 tvg-id="zone-HOT" tvg-logo="https://MizaPo.github.io/picons/light/HOT-Zone.png",הוט זון
+#EXTGRP:ערוצי הוט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/603172
+
+#EXTINF:-1 tvg-id="tv-shows-PARTNER" tvg-logo="https://MizaPo.github.io/picons/light/Partner-Sdarot.png",פרטנר סדרות
+#EXTGRP:סלקום & פרטנר
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822249
+
+#EXTINF:-1 tvg-id="tv-drama-YES" tvg-logo="https://MizaPo.github.io/picons/light/Yes-TV-Drama.png",יס סדרות דרמה
+#EXTGRP:ערוצי יס
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477546
+
+#EXTINF:-1 tvg-id="tv-drama-YES" tvg-logo="https://MizaPo.github.io/picons/light/Yes-TV-Drama.png",יס סדרות דרמה
+#EXTGRP:ערוצי יס
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/669769
+
+#EXTINF:-1 tvg-id="3-HOT" tvg-logo="https://MizaPo.github.io/picons/light/HOT-3.png",הוט 3
+#EXTGRP:ערוצי הוט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/603169
+
+#EXTINF:-1 tvg-id="tv-drama-FREETV" tvg-logo="https://MizaPo.github.io/picons/light/FreeTV-Drama.png",פרי טיוי סדרות דרמה
+#EXTGRP:ערוצי פרי טיוי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822200
+
+#EXTINF:-1 tvg-id="hbo-HOT" tvg-logo="https://MizaPo.github.io/picons/light/HOT-HBO.png",HBO הוט
+#EXTGRP:ערוצי הוט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/603170
+
+#EXTINF:-1 tvg-id="hbo-CELLCOM" tvg-name="IL: HBO" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/HBO.png",HBO סלקום
+#EXTGRP:📺 סדרות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832352
+
+#EXTINF:-1 tvg-id="tv-series-global-FREETV" tvg-logo="https://MizaPo.github.io/picons/light/FreeTV-Series-Global.png",פרי טיוי סדרות גלובלי
+#EXTGRP:ערוצי פרי טיוי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822202
+
+#EXTINF:-1 tvg-id="entertainment-HOT" tvg-logo="https://MizaPo.github.io/picons/light/HOT-Bidur.png",הוט בידור ישראלי
+#EXTGRP:ערוצי הוט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/664702
+
+#EXTINF:-1 tvg-id="channel-24-YES" tvg-logo="https://MizaPo.github.io/picons/light/Channel-24.png",ערוץ 24
+#EXTGRP:תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477569
+
+#EXTINF:-1 tvg-id="channel-24-YES" tvg-logo="https://MizaPo.github.io/picons/light/Channel-24.png",ערוץ 24
+#EXTGRP:תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832343
+
+#EXTINF:-1 tvg-id="channel-24-YES" tvg-logo="https://MizaPo.github.io/picons/light/Channel-24.png",ערוץ 24
+#EXTGRP:תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822213
+
+#EXTINF:-1 tvg-id="channel-24-YES" tvg-logo="https://MizaPo.github.io/picons/light/Channel-24.png",ערוץ 24
+#EXTGRP:תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/825518
+
+#EXTINF:-1 tvg-id="israel-CELLCOM" tvg-logo="https://MizaPo.github.io/picons/light/Cellcom-TV.png",סלקום ישראל
+#EXTGRP:סלקום & פרטנר
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832355
+
+#EXTINF:-1 tvg-id="israel-CELLCOM" tvg-logo="https://MizaPo.github.io/picons/light/Cellcom-TV.png",סלקום ישראל
+#EXTGRP:סלקום & פרטנר
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832348
+
+#EXTINF:-1 tvg-id="senior-HOT" tvg-logo="https://MizaPo.github.io/picons/light/HOT-Senior.png",הוט סניור
+#EXTGRP:ערוצי הוט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/670530
+
+#EXTINF:-1 tvg-id="rak-israeli-CELLCOM" tvg-name="IL: PARTNER TV CH 23" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Rak-Israeli.png",רק ישראלי
+#EXTGRP:📺 סדרות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822214
+
+#EXTINF:-1 tvg-id="rak-israeli-CELLCOM" tvg-name="IL: 23" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Rak-Israeli.png",רק ישראלי
+#EXTGRP:📺 סדרות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832345
+
+#EXTINF:-1 tvg-id="docu-YES" tvg-logo="https://MizaPo.github.io/picons/light/Yes-Docu.png",יס דוקו
+#EXTGRP:ערוצי יס
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477544
+
+#EXTINF:-1 tvg-id="8-HOT" tvg-logo="https://MizaPo.github.io/picons/light/HOT-8.png",הוט 8
+#EXTGRP:ערוצי הוט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/603171
+
+#EXTINF:-1 tvg-id="docu-FREETV" tvg-logo="https://MizaPo.github.io/picons/light/FreeTV-Docu.png",פרי טיוי דוקומנטרי
+#EXTGRP:ערוצי פרי טיוי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822191
+
+#EXTINF:-1 tvg-id="doco-CELLCOM" tvg-logo="https://MizaPo.github.io/picons/light/Cellcom-TV.png",סלקום דוקו
+#EXTGRP:סלקום & פרטנר
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832336
+
+#EXTINF:-1 tvg-id="pop-up-YES" tvg-name="IS: YES + POP UP HD" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Yes-Pop-Up.png",יס פופאפ
+#EXTGRP:📺 סדרות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/831473
+
+#EXTINF:-1 tvg-id="sport-1-hd-YES" tvg-logo="https://MizaPo.github.io/picons/light/Sport1.png",ספורט 1
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/613173
+
+#EXTINF:-1 tvg-id="sport-1-hd-YES" tvg-logo="https://MizaPo.github.io/picons/light/Sport1.png",ספורט 1
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477563
+
+#EXTINF:-1 tvg-id="sport-1-hd-YES" tvg-logo="https://MizaPo.github.io/picons/light/Sport1.png",ספורט 1
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/669773
+
+#EXTINF:-1 tvg-id="sport-2-YES" tvg-logo="https://MizaPo.github.io/picons/light/Sport2.png",ספורט 2
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/613172
+
+#EXTINF:-1 tvg-id="sport-2-YES" tvg-logo="https://MizaPo.github.io/picons/light/Sport2.png",ספורט 2
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477562
+
+#EXTINF:-1 tvg-id="sport-2-YES" tvg-logo="https://MizaPo.github.io/picons/light/Sport2.png",ספורט 2
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/669772
+
+#EXTINF:-1 tvg-id="sport-3-YES" tvg-logo="https://MizaPo.github.io/picons/light/Sport3.png",ספורט 3
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/613171
+
+#EXTINF:-1 tvg-id="sport-3-YES" tvg-logo="https://MizaPo.github.io/picons/light/Sport3.png",ספורט 3
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477561
+
+#EXTINF:-1 tvg-id="sport-3-YES" tvg-logo="https://MizaPo.github.io/picons/light/Sport3.png",ספורט 3
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/669771
+
+#EXTINF:-1 tvg-id="sport-4-YES" tvg-logo="https://MizaPo.github.io/picons/light/Sport4.png",ספורט 4
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/613170
+
+#EXTINF:-1 tvg-id="sport-4-YES" tvg-logo="https://MizaPo.github.io/picons/light/Sport4.png",ספורט 4
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477560
+
+#EXTINF:-1 tvg-id="sport-4-YES" tvg-logo="https://MizaPo.github.io/picons/light/Sport4.png",ספורט 4
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/669770
+
+#EXTINF:-1 tvg-id="sport-5-YES" tvg-logo="https://MizaPo.github.io/picons/light/5-Sport.png",ספורט 5
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477558
+
+#EXTINF:-1 tvg-id="sport-5-YES" tvg-logo="https://MizaPo.github.io/picons/light/5-Sport.png",ספורט 5
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/613164
+
+#EXTINF:-1 tvg-id="sport-5-YES" tvg-logo="https://MizaPo.github.io/picons/light/5-Sport.png",ספורט 5
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/454872
+
+#EXTINF:-1 tvg-id="sport-5-YES" tvg-logo="https://MizaPo.github.io/picons/light/5-Sport.png",ספורט 5
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822232
+
+#EXTINF:-1 tvg-id="sport-5-YES" tvg-logo="https://MizaPo.github.io/picons/light/5-Sport.png",ספורט 5
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/669775
+
+#EXTINF:-1 tvg-id="sport-5-4k-YES" tvg-logo="https://MizaPo.github.io/picons/light/5-Sport-4K.png",4K ספורט 5
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477564
+
+#EXTINF:-1 tvg-id="sport-5-4k-YES" tvg-logo="https://MizaPo.github.io/picons/light/5-Sport-4K.png",4K ספורט 5
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/483972
+
+#EXTINF:-1 tvg-id="sport-5-live-YES" tvg-logo="https://MizaPo.github.io/picons/light/5-Live.png",ספורט 5 לייב
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/613166
+
+#EXTINF:-1 tvg-id="sport-5-live-YES" tvg-logo="https://MizaPo.github.io/picons/light/5-Live.png",ספורט 5 לייב
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477556
+
+#EXTINF:-1 tvg-id="sport-5-live-YES" tvg-logo="https://MizaPo.github.io/picons/light/5-Live.png",ספורט 5 לייב
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822229
+
+#EXTINF:-1 tvg-id="sport-5-live-YES" tvg-logo="https://MizaPo.github.io/picons/light/5-Live.png",ספורט 5 לייב
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/669777
+
+#EXTINF:-1 tvg-id="sport-5-stars-YES" tvg-logo="https://MizaPo.github.io/picons/light/5-Stars.png",ספורט 5 סטארס
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477555
+
+#EXTINF:-1 tvg-id="sport-5-stars-YES" tvg-logo="https://MizaPo.github.io/picons/light/5-Stars.png",ספורט 5 סטארס
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822228
+
+#EXTINF:-1 tvg-id="sport-5-stars-YES" tvg-logo="https://MizaPo.github.io/picons/light/5-Stars.png",ספורט 5 סטארס
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/669778
+
+#EXTINF:-1 tvg-id="sport-5-plus-YES" tvg-logo="https://MizaPo.github.io/picons/light/5-Plus.png",ספורט 5 פלוס
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/613167
+
+#EXTINF:-1 tvg-id="sport-5-plus-YES" tvg-logo="https://MizaPo.github.io/picons/light/5-Plus.png",ספורט 5 פלוס
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477557
+
+#EXTINF:-1 tvg-id="sport-5-plus-YES" tvg-logo="https://MizaPo.github.io/picons/light/5-Plus.png",ספורט 5 פלוס
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822231
+
+#EXTINF:-1 tvg-id="sport-5-plus-YES" tvg-logo="https://MizaPo.github.io/picons/light/5-Plus.png",ספורט 5 פלוס
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/669776
+
+#EXTINF:-1 tvg-id="sport-5-gold-YES" tvg-logo="https://MizaPo.github.io/picons/light/5-Gold.png",ספורט 5 גולד
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/613165
+
+#EXTINF:-1 tvg-id="sport-5-gold-YES" tvg-logo="https://MizaPo.github.io/picons/light/5-Gold.png",ספורט 5 גולד
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477559
+
+#EXTINF:-1 tvg-id="sport-5-gold-YES" tvg-logo="https://MizaPo.github.io/picons/light/5-Gold.png",ספורט 5 גולד
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822230
+
+#EXTINF:-1 tvg-id="sport-5-gold-YES" tvg-logo="https://MizaPo.github.io/picons/light/5-Gold.png",ספורט 5 גולד
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/669774
+
+#EXTINF:-1 tvg-id="5-sport-RADIO" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/5-Radio.png" tvg-rec="0",ספורט 5 רדיו
+#EXTGRP:⚽ ספורט
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="one-HOT" tvg-name="IS: YES ONE" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/ONE.png",וואן
+#EXTGRP:⚽ ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/613169
+
+#EXTINF:-1 tvg-id="one-HOT" tvg-name="IS: YES ONE 4K" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/ONE.png",וואן
+#EXTGRP:⚽ ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477554
+
+#EXTINF:-1 tvg-id="one-HOT" tvg-name="IL: PARTNER TV ONE" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/ONE.png",וואן
+#EXTGRP:⚽ ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822227
+
+#EXTINF:-1 tvg-id="one-HOT" tvg-name="IS: YES ONE 4K" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/ONE.png",וואן
+#EXTGRP:⚽ ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/669780
+
+#EXTINF:-1 tvg-id="one-2-HOT" tvg-logo="https://MizaPo.github.io/picons/light/ONE2.png",ONE 2
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/613168
+
+#EXTINF:-1 tvg-id="one-2-HOT" tvg-logo="https://MizaPo.github.io/picons/light/ONE2.png",ONE 2
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477553
+
+#EXTINF:-1 tvg-id="one-2-HOT" tvg-logo="https://MizaPo.github.io/picons/light/ONE2.png",ONE 2
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822226
+
+#EXTINF:-1 tvg-id="one-2-HOT" tvg-logo="https://MizaPo.github.io/picons/light/ONE2.png",ONE 2
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/669779
+
+#EXTINF:-1 tvg-id="edge-sport-HOT" tvg-name="IL: FREE TV ONE EDGE" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/One-Edge.png",וואן אדג׳
+#EXTGRP:⚽ ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822193
+
+#EXTINF:-1 tvg-id="one-doco-HOT" tvg-name="IL: PARTNER TV ONE DOCO" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/One-Doco.png",וואן דוקו
+#EXTGRP:⚽ ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822233
+
+#EXTINF:-1 tvg-id="one-doco-HOT" tvg-name="IL: FREE TV ONE DOCU" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/One-Doco.png",וואן דוקו
+#EXTGRP:⚽ ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822192
+
+#EXTINF:-1 tvg-id="one-zero-CUSTOM" tvg-name="IS: ISRAEL ZERO ONE 1 HD" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/One-Zero.png",One Zero 1 ליגת
+#EXTGRP:⚽ ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/659707
+
+#EXTINF:-1 tvg-id="one-zero-CUSTOM" tvg-name="IL: SCREEN TV SUPER LEAGUE ISREAL 1" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/One-Zero.png",One Zero 1 ליגת
+#EXTGRP:⚽ ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/825511
+
+#EXTINF:-1 tvg-id="one-zero-CUSTOM" tvg-name="IS: ISRAEL ZERO ONE-2 HD" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/One-Zero.png",One Zero 2 ליגת
+#EXTGRP:⚽ ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/659706
+
+#EXTINF:-1 tvg-id="one-zero-CUSTOM" tvg-name="IL: SCREEN TV SUPER LEAGUE ISREAL 2" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/One-Zero.png",One Zero 2 ליגת
+#EXTGRP:⚽ ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/825510
+
+#EXTINF:-1 tvg-id="eurosport-1-YES" tvg-logo="https://MizaPo.github.io/picons/light/Eurosport1.png",יורוספורט 1
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477515
+
+#EXTINF:-1 tvg-id="eurosport-2-YES" tvg-logo="https://MizaPo.github.io/picons/light/Eurosport2.png",יורוספורט 2
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477514
+
+#EXTINF:-1 tvg-id="sport-to-go-1-YES" tvg-name="IS: YES SPORT 1 TO GO HD" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Sport-To-Go-1.png",ספורט טוגו 1
+#EXTGRP:⚽ ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/985820
+
+#EXTINF:-1 tvg-id="sport-to-go-2-YES" tvg-logo="https://MizaPo.github.io/picons/light/Sport-To-Go-2.png",ספורט TOGO 2
+#EXTGRP:ספורט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/985819
+
+#EXTINF:-1 tvg-id="baby-YES" tvg-logo="https://MizaPo.github.io/picons/light/Baby.png",בייבי
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822221
+
+#EXTINF:-1 tvg-id="baby-YES" tvg-logo="https://MizaPo.github.io/picons/light/Baby.png",בייבי
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832323
+
+#EXTINF:-1 tvg-id="luli-HOT" tvg-logo="https://MizaPo.github.io/picons/light/HOT-Luli.png",הוט לולי
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/671875
+
+#EXTINF:-1 tvg-id="shirey-yalduti-YES" tvg-name="IL: PARTNER TV CHILDISH SONGS" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Shirey-Yalduti.png",שירי ילדותי
+#EXTGRP:🧸 ילדים
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822217
+
+#EXTINF:-1 tvg-id="shirey-yalduti-YES" tvg-name="IL: YLD SONGS" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Shirey-Yalduti.png",שירי ילדותי
+#EXTGRP:🧸 ילדים
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832329
+
+#EXTINF:-1 tvg-id="yoyo-YES" tvg-name="IL: FREE TV YOYO" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Yoyo.png",יויו
+#EXTGRP:🧸 ילדים
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822188
+
+#EXTINF:-1 tvg-id="yoyo-YES" tvg-name="IL: FREE TV JIJI" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Yoyo.png",יויו
+#EXTGRP:🧸 ילדים
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822180
+
+#EXTINF:-1 tvg-id="yoyo-YES" tvg-name="IL: YVIN" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Yoyo.png",יויו
+#EXTGRP:🧸 ילדים
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832351
+
+#EXTINF:-1 tvg-id="pele-FREETV" tvg-logo="https://MizaPo.github.io/picons/light/Pele.png",פלא
+#EXTGRP:ערוצי פרי טיוי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822187
+
+#EXTINF:-1 tvg-id="wiz-YES" tvg-logo="https://MizaPo.github.io/picons/light/Wiz.png",וויז
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477523
+
+#EXTINF:-1 tvg-id="a-plus-FREETV" tvg-name="IL: PARTNER TV A+" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/A-Plus.png",A+
+#EXTGRP:🧸 ילדים
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822216
+
+#EXTINF:-1 tvg-id="a-plus-FREETV" tvg-name="IL: FREE TV A PLUS" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/A-Plus.png",A+
+#EXTGRP:🧸 ילדים
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822185
+
+#EXTINF:-1 tvg-id="yalduti-YES" tvg-logo="https://MizaPo.github.io/picons/light/Yalduti.png",ילדותי
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477528
+
+#EXTINF:-1 tvg-id="yalduti-YES" tvg-logo="https://MizaPo.github.io/picons/light/Yalduti.png",ילדותי
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822219
+
+#EXTINF:-1 tvg-id="yalduti-YES" tvg-logo="https://MizaPo.github.io/picons/light/Yalduti.png",ילדותי
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822182
+
+#EXTINF:-1 tvg-id="yalduti-YES" tvg-logo="https://MizaPo.github.io/picons/light/Yalduti.png",ילדותי
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832328
+
+#EXTINF:-1 tvg-id="junior-YES" tvg-logo="https://MizaPo.github.io/picons/light/Junior.png",ג׳וניור
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477519
+
+#EXTINF:-1 tvg-id="junior-YES" tvg-logo="https://MizaPo.github.io/picons/light/Junior.png",ג׳וניור
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822183
+
+#EXTINF:-1 tvg-id="junior-YES" tvg-logo="https://MizaPo.github.io/picons/light/Junior.png",ג׳וניור
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832327
+
+#EXTINF:-1 tvg-id="yeladim-FREETV" tvg-name="IL: PARTNER TV CH KIDS" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Hayeladim-Channel.png",ערוץ הילדים
+#EXTGRP:🧸 ילדים
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822218
+
+#EXTINF:-1 tvg-id="yeladim-FREETV" tvg-name="IL: CH KIDS" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Hayeladim-Channel.png",ערוץ הילדים
+#EXTGRP:🧸 ילדים
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832324
+
+#EXTINF:-1 tvg-id="zoom-toon-YES" tvg-logo="https://MizaPo.github.io/picons/light/ZoomToon.png",זום-טון
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/603164
+
+#EXTINF:-1 tvg-id="zoom-toon-YES" tvg-logo="https://MizaPo.github.io/picons/light/ZoomToon.png",זום-טון
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822220
+
+#EXTINF:-1 tvg-id="disney-YES" tvg-logo="https://MizaPo.github.io/picons/light/Disney.png",דיסני
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477526
+
+#EXTINF:-1 tvg-id="disney-YES" tvg-logo="https://MizaPo.github.io/picons/light/Disney.png",דיסני
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832325
+
+#EXTINF:-1 tvg-id="disney-junior-YES" tvg-logo="https://MizaPo.github.io/picons/light/Disney-Jr.png",דיסני ג׳וניור
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477521
+
+#EXTINF:-1 tvg-id="disney-junior-YES" tvg-logo="https://MizaPo.github.io/picons/light/Disney-Jr.png",דיסני ג׳וניור
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832326
+
+#EXTINF:-1 tvg-id="nick-YES" tvg-logo="https://MizaPo.github.io/picons/light/Nick.png",ניקולודיאון
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477520
+
+#EXTINF:-1 tvg-id="nick-junior-YES" tvg-name="IS: YES NICK JUNIOR 4K" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Nick-Jr.png",ניק ג׳וניור
+#EXTGRP:🧸 ילדים
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477518
+
+#EXTINF:-1 tvg-id="stars-channel-YES" tvg-logo="https://mizapo.github.io/picons/light/Stars-Channel.png",ערוץ הכוכבים
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/603165
+
+#EXTINF:-1 tvg-id="stars-channel-YES" tvg-logo="https://mizapo.github.io/picons/light/Stars-Channel.png",ערוץ הכוכבים
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477524
+
+#EXTINF:-1 tvg-id="stars-channel-YES" tvg-logo="https://mizapo.github.io/picons/light/Stars-Channel.png",ערוץ הכוכבים
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/825508
+
+#EXTINF:-1 tvg-id="stars-channel-YES" tvg-logo="https://mizapo.github.io/picons/light/Stars-Channel.png",ערוץ הכוכבים
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832330
+
+#EXTINF:-1 tvg-id="teen-nick-YES" tvg-logo="https://MizaPo.github.io/picons/light/TeenNick.png",ניק טין
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477525
+
+#EXTINF:-1 tvg-id="zoom-YES" tvg-logo="https://MizaPo.github.io/picons/light/Zoom.png",זום
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477522
+
+#EXTINF:-1 tvg-id="logi-HOT" tvg-logo="https://MizaPo.github.io/picons/light/Logi.png",לוגי
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822186
+
+#EXTINF:-1 tvg-id="logi-HOT" tvg-logo="https://MizaPo.github.io/picons/light/Logi.png",לוגי
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832322
+
+#EXTINF:-1 tvg-id="kan-chinuchit-23-YES" tvg-logo="https://MizaPo.github.io/picons/light/Kan-Chinuchit.png",כאן חינוכית
+#EXTGRP:ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477570
+
+#EXTINF:-1 tvg-id="kan-chinuchit-23-YES" tvg-logo="https://MizaPo.github.io/picons/light/Kan-Chinuchit.png",כאן חינוכית
+#EXTGRP:ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/825517
+
+#EXTINF:-1 tvg-id="kan-chinuchit-23-YES" tvg-logo="https://MizaPo.github.io/picons/light/Kan-Chinuchit.png",כאן חינוכית
+#EXTGRP:ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/669783
+
+#EXTINF:-1 tvg-id="kan-chinuchit-23-YES" tvg-logo="https://MizaPo.github.io/picons/light/Kan-Chinuchit.png",כאן חינוכית
+#EXTGRP:ראשי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832344
+
+#EXTINF:-1 tvg-id="fomo-HOT" tvg-logo="https://MizaPo.github.io/picons/light/Fomo.png",פומו
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822184
+
+#EXTINF:-1 tvg-id="fomo-HOT" tvg-logo="https://MizaPo.github.io/picons/light/Fomo.png",פומו
+#EXTGRP:ילדים ונוער
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832317
+
+#EXTINF:-1 tvg-id="daystar-YES" tvg-name="IL: PARTNER TV DAYSTAR" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Daystar.png",Daystar
+#EXTGRP:🧸 ילדים
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822210
+
+#EXTINF:-1 tvg-id="animal-planet-YES" tvg-logo="https://MizaPo.github.io/picons/light/Animal-Planet.png",אנימל פלאנט
+#EXTGRP:מדע וטבע
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477541
+
+#EXTINF:-1 tvg-id="animal-planet-YES" tvg-logo="https://MizaPo.github.io/picons/light/Animal-Planet.png",אנימל פלאנט
+#EXTGRP:מדע וטבע
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832335
+
+#EXTINF:-1 tvg-id="national-geographic-YES" tvg-logo="https://MizaPo.github.io/picons/light/National-Geographic.png",נשיונל ג׳יאוגרפיק
+#EXTGRP:מדע וטבע
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477540
+
+#EXTINF:-1 tvg-id="national-geographic-YES" tvg-logo="https://MizaPo.github.io/picons/light/National-Geographic.png",נשיונל ג׳יאוגרפיק
+#EXTGRP:מדע וטבע
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822240
+
+#EXTINF:-1 tvg-id="national-geographic-YES" tvg-logo="https://MizaPo.github.io/picons/light/National-Geographic.png",נשיונל ג׳יאוגרפיק
+#EXTGRP:מדע וטבע
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832337
+
+#EXTINF:-1 tvg-id="natgeo-wild-YES" tvg-logo="https://MizaPo.github.io/picons/light/Nat-Geo-Wild.png",נשיונל ג׳יאוגרפיק פראי
+#EXTGRP:מדע וטבע
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477542
+
+#EXTINF:-1 tvg-id="natgeo-wild-YES" tvg-logo="https://MizaPo.github.io/picons/light/Nat-Geo-Wild.png",נשיונל ג׳יאוגרפיק פראי
+#EXTGRP:מדע וטבע
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822239
+
+#EXTINF:-1 tvg-id="natgeo-wild-YES" tvg-logo="https://MizaPo.github.io/picons/light/Nat-Geo-Wild.png",נשיונל ג׳יאוגרפיק פראי
+#EXTGRP:מדע וטבע
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832339
+
+#EXTINF:-1 tvg-id="discovery-YES" tvg-logo="https://MizaPo.github.io/picons/light/Discovery.png",דיסקברי
+#EXTGRP:מדע וטבע
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477543
+
+#EXTINF:-1 tvg-id="discovery-YES" tvg-logo="https://MizaPo.github.io/picons/light/Discovery.png",דיסקברי
+#EXTGRP:מדע וטבע
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832334
+
+#EXTINF:-1 tvg-id="history-YES" tvg-logo="https://MizaPo.github.io/picons/light/History.png",היסטוריה
+#EXTGRP:מדע וטבע
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477539
+
+#EXTINF:-1 tvg-id="history-YES" tvg-logo="https://MizaPo.github.io/picons/light/History.png",היסטוריה
+#EXTGRP:מדע וטבע
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822242
+
+#EXTINF:-1 tvg-id="food-channel-YES" tvg-logo="https://MizaPo.github.io/picons/light/food.png",ערוץ האוכל
+#EXTGRP:תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477527
+
+#EXTINF:-1 tvg-id="food-FREETV" tvg-logo="https://MizaPo.github.io/picons/light/FreeTV-Food.png",פרי טיוי אוכל
+#EXTGRP:ערוצי פרי טיוי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822196
+
+#EXTINF:-1 tvg-id="foody-CELLCOM" tvg-name="IL: PARTNER TV FOODY" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Foody.png",פודי
+#EXTGRP:🧁 תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822245
+
+#EXTINF:-1 tvg-id="foody-CELLCOM" tvg-name="IL: FODDY" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Foody.png",פודי
+#EXTGRP:🧁 תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832316
+
+#EXTINF:-1 tvg-id="food-plus-PARTNER" tvg-name="IL: PARTNER TV FOOD+" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Food-Plus.png",אוכל+
+#EXTGRP:🧁 תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822224
+
+#EXTINF:-1 tvg-id="food-network-CELLCOM" tvg-name="IL: FOOD NETWORK" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Food-Network.png",רשת האוכל
+#EXTGRP:🧁 תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832318
+
+#EXTINF:-1 tvg-id="travel-channel-il-YES" tvg-name="IS: YES TRAVEL CH 4K" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Hatiyulim.png",ערוץ הטיולים
+#EXTGRP:🧁 תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477517
+
+#EXTINF:-1 tvg-id="travel-plus-PARTNER" tvg-name="IL: PARTNER TV TRAVEL+" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Travel-Plus.png",ערוץ הטיולים+
+#EXTGRP:🧁 תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822223
+
+#EXTINF:-1 tvg-id="travel-channel-en-CELLCOM" tvg-name="IL: TRAVEL CHANNEL" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Travel-Channel.png",ערוץ הטיולים האמריקאי
+#EXTGRP:🧁 תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832338
+
+#EXTINF:-1 tvg-id="lifestyle-FREETV" tvg-logo="https://MizaPo.github.io/picons/light/FreeTV-Lifestyle.png",פרי טיוי לייף סטייל
+#EXTGRP:ערוצי פרי טיוי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822197
+
+#EXTINF:-1 tvg-id="home-plus-YES" tvg-name="IS: YES HOME+ 4K" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Home-Plus.png",בית+
+#EXTGRP:🧁 תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477534
+
+#EXTINF:-1 tvg-id="home-plus-YES" tvg-name="IL: HOME +" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Home-Plus.png",בית+
+#EXTGRP:🧁 תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832320
+
+#EXTINF:-1 tvg-id="good-life-YES" tvg-logo="https://MizaPo.github.io/picons/light/Hachaim.png",ערוץ החיים הטובים
+#EXTGRP:תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477538
+
+#EXTINF:-1 tvg-id="design-channel-YES" tvg-name="IS: HOT REALITY 4K" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Design-Channel.png",ערוץ העיצוב
+#EXTGRP:🧁 תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/603173
+
+#EXTINF:-1 tvg-id="nofesh-YES" tvg-name="IS: HOT NOFESH-TV 4K" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Hanofesh-Channel.png",ערוץ הנופש
+#EXTGRP:🧁 תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/603157
+
+#EXTINF:-1 tvg-id="game-show-channel-YES" tvg-name="IL: PARTNER ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Shashuonim-Channel.png",ערוץ השעשועונים
+#EXTGRP:🧁 תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822244
+
+#EXTINF:-1 tvg-id="doc-tv-FREETV" tvg-name="IL: PARTNER TV DOCU" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Doc-TV.png",ערוץ דוק טיוי
+#EXTGRP:🧁 תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822241
+
+#EXTINF:-1 tvg-id="doc-tv-FREETV" tvg-name="IL: FREE TV DOCU" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Doc-TV.png",ערוץ דוק טיוי
+#EXTGRP:🧁 תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822190
+
+#EXTINF:-1 tvg-id="health-YES" tvg-logo="https://MizaPo.github.io/picons/light/Health.png",ערוץ הבריאות
+#EXTGRP:תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477516
+
+#EXTINF:-1 tvg-id="health-plus-PARTNER" tvg-name="IL: PARTNER TV HEALTH +" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Health-Plus.png",ערוץ הבריאות+
+#EXTGRP:🧁 תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822222
+
+#EXTINF:-1 tvg-id="ego-YES" tvg-logo="https://MizaPo.github.io/picons/light/Ego.png",ערוץ אגו
+#EXTGRP:תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/880458
+
+#EXTINF:-1 tvg-id="e-entertainment-YES" tvg-logo="https://MizaPo.github.io/picons/light/E-Entertainment.png",E! ערוץ
+#EXTGRP:תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477533
+
+#EXTINF:-1 tvg-id="e-entertainment-YES" tvg-logo="https://MizaPo.github.io/picons/light/E-Entertainment.png",E! ערוץ
+#EXTGRP:תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822243
+
+#EXTINF:-1 tvg-id="e-entertainment-YES" tvg-logo="https://MizaPo.github.io/picons/light/E-Entertainment.png",E! ערוץ
+#EXTGRP:תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832315
+
+#EXTINF:-1 tvg-id="ftv-il-YES" tvg-logo="https://MizaPo.github.io/picons/light/FTV-Israel.png",ערוץ האופנה
+#EXTGRP:תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/603168
+
+#EXTINF:-1 tvg-id="ninja-FREETV" tvg-name="IL: FREE TV NINJA POPUP" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Ninja.png",פרי טיוי נינג׳ה
+#EXTGRP:🧁 תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822181
+
+#EXTINF:-1 tvg-id="marriage-first-sight-FREETV" tvg-logo="https://MizaPo.github.io/picons/light/Hatunami.png",פרי טיוי חתונמי
+#EXTGRP:ערוצי פרי טיוי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822195
+
+#EXTINF:-1 tvg-id="next-star-FREETV" tvg-logo="https://MizaPo.github.io/picons/light/Next-Star.png",פרי טיוי הכוכב הבא
+#EXTGRP:ערוצי פרי טיוי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822189
+
+#EXTINF:-1 tvg-id="love-island-FREETV" tvg-logo="https://MizaPo.github.io/picons/light/Love-Island.png",פרי טיוי אי האהבה
+#EXTGRP:ערוצי פרי טיוי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/986498
+
+#EXTINF:-1 tvg-id="reality-channel-YES" tvg-logo="https://MizaPo.github.io/picons/light/Yes-Reality.png",ערוץ הריאליטי
+#EXTGRP:תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/603158
+
+#EXTINF:-1 tvg-id="reality-channel-YES" tvg-logo="https://MizaPo.github.io/picons/light/Yes-Reality.png",ערוץ הריאליטי
+#EXTGRP:תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477537
+
+#EXTINF:-1 tvg-id="real-HOT" tvg-logo="https://MizaPo.github.io/picons/light/HOT-Reality.png",הוט ריל
+#EXTGRP:ערוצי הוט
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/603167
+
+#EXTINF:-1 tvg-id="tlc-YES" tvg-logo="https://MizaPo.github.io/picons/light/TLC.png",TLC
+#EXTGRP:תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477531
+
+#EXTINF:-1 tvg-id="tlc-YES" tvg-logo="https://MizaPo.github.io/picons/light/TLC.png",TLC
+#EXTGRP:תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832331
+
+#EXTINF:-1 tvg-id="investigation-discovery-YES" tvg-name="IS: YES ID 4K" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/ID.png",ערוץ החקירות
+#EXTGRP:🧁 תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477532
+
+#EXTINF:-1 tvg-id="big-brother-YES" tvg-logo="https://MizaPo.github.io/picons/light/Big-Brother.png",ערוץ האח הגדול
+#EXTGRP:תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832310
+
+#EXTINF:-1 tvg-id="muzika-il-FREETV" tvg-name="IS: YES MUSIC IL 4K" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Music-il.png",IL מוזיקה
+#EXTGRP:🎸 מוזיקה
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477535
+
+#EXTINF:-1 tvg-id="muzika-il-FREETV" tvg-name="IL: PARTNER TV MUSIC" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Music-il.png",IL מוזיקה
+#EXTGRP:🎸 מוזיקה
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822215
+
+#EXTINF:-1 tvg-id="muzika-il-FREETV" tvg-name="IL: SCREEN TV MUSIC" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Music-il.png",IL מוזיקה
+#EXTGRP:🎸 מוזיקה
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/825509
+
+#EXTINF:-1 tvg-id="muzika-il-FREETV" tvg-name="IL: MUSIC IL" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Music-il.png",IL מוזיקה
+#EXTGRP:🎸 מוזיקה
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832321
+
+#EXTINF:-1 tvg-id="karaoke-FREETV" tvg-logo="https://MizaPo.github.io/picons/light/FreeTV-Karaoke.png",פרי טיוי קריוקי
+#EXTGRP:ערוצי פרי טיוי
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/878315
+
+#EXTINF:-1 tvg-id="mtv-YES" tvg-logo="https://MizaPo.github.io/picons/light/MTV.png",MTV-ישראל
+#EXTGRP:תרבות וסטייל
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/876638
+
+#EXTINF:-1 tvg-id="mtv-hits-YES" tvg-name="IL: YES MTV HITS HD" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/MTV-Hits.png",MTV להיטים
+#EXTGRP:🎸 מוזיקה
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/876640
+
+#EXTINF:-1 tvg-id="mtv-live-YES" tvg-name="IL: YES MTV LIVE 4K" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/MTV-Live.png",MTV לייב
+#EXTGRP:🎸 מוזיקה
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/876639
+
+#EXTINF:-1 tvg-id="mtv-club-YES" tvg-name="IL: YES MTV CLUB HD" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/MTV-Club.png",MTV קלאב
+#EXTGRP:🎸 מוזיקה
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/876635
+
+#EXTINF:-1 tvg-id="mtv-00s-YES" tvg-name="IL: YES MTV 00S HD" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/MTV-00s.png",MTV 00s
+#EXTGRP:🎸 מוזיקה
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/876636
+
+#EXTINF:-1 tvg-id="mtv-80s-YES" tvg-name="IL: YES MTV 80S HD" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/MTV-80s.png",MTV 80s
+#EXTGRP:🎸 מוזיקה
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/876637
+
+#EXTINF:-1 tvg-id="mezzo-YES" tvg-name="IL: YES MEZOO 4K" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Mezzo.png",Mezzo
+#EXTGRP:🎸 מוזיקה
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/880461
+
+#EXTINF:-1 tvg-id="mezzo-live-YES" tvg-name="IL: YES MEZOO LIVE 4K" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Mezzo-Live-HD.png",Mezzo חי
+#EXTGRP:🎸 מוזיקה
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/880460
+
+#EXTINF:-1 tvg-id="mad-world-YES" tvg-name="IL: YES MAD WORLD 4K" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/MAD-World.png",מוזיקה יוונית
+#EXTGRP:🎸 מוזיקה
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/880462
+
+#EXTINF:-1 tvg-id="russian-music-box-YES" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Russian-Music-Box.png" tvg-rec="0",Russian MusicBox
+#EXTGRP:🎸 מוזיקה
+https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+
+#EXTINF:-1 tvg-id="viva-YES" tvg-logo="https://MizaPo.github.io/picons/light/Viva.png",ויוה
+#EXTGRP:שפות זרות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/813533
+
+#EXTINF:-1 tvg-id="viva-YES" tvg-logo="https://MizaPo.github.io/picons/light/Viva.png",ויוה
+#EXTGRP:שפות זרות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477530
+
+#EXTINF:-1 tvg-id="viva-YES" tvg-logo="https://MizaPo.github.io/picons/light/Viva.png",ויוה
+#EXTGRP:שפות זרות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822237
+
+#EXTINF:-1 tvg-id="viva-YES" tvg-logo="https://MizaPo.github.io/picons/light/Viva.png",ויוה
+#EXTGRP:שפות זרות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832333
+
+#EXTINF:-1 tvg-id="viva-plus-YES" tvg-logo="https://MizaPo.github.io/picons/light/Viva-Plus.png",ויוה+
+#EXTGRP:שפות זרות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/813532
+
+#EXTINF:-1 tvg-id="viva-plus-YES" tvg-logo="https://MizaPo.github.io/picons/light/Viva-Plus.png",ויוה+
+#EXTGRP:שפות זרות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477529
+
+#EXTINF:-1 tvg-id="viva-plus-YES" tvg-logo="https://MizaPo.github.io/picons/light/Viva-Plus.png",ויוה+
+#EXTGRP:שפות זרות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822236
+
+#EXTINF:-1 tvg-id="viva-plus-YES" tvg-logo="https://MizaPo.github.io/picons/light/Viva-Plus.png",ויוה+
+#EXTGRP:שפות זרות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832332
+
+#EXTINF:-1 tvg-id="viva-premium-YES" tvg-logo="https://MizaPo.github.io/picons/light/Viva-Premium.png",ויוה פרימיום
+#EXTGRP:שפות זרות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/603159
+
+#EXTINF:-1 tvg-id="viva-vintage-YES" tvg-logo="https://MizaPo.github.io/picons/light/Viva-Vintage.png",ויוה וינטג׳
+#EXTGRP:שפות זרות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/603156
+
+#EXTINF:-1 tvg-id="mediteranean-YES" tvg-name="IS: HOT YAM TICHONI 25 4K" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Yam-Tihoni.png",הערוץ הים תיכוני
+#EXTGRP:🌐 עולם הטלנובלות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/603155
+
+#EXTINF:-1 tvg-id="mediteranean-plus-YES" tvg-logo="https://MizaPo.github.io/picons/light/Yam-Tihoni-Plus.png",הערוץ הים תיכוני פלוס
+#EXTGRP:שפות זרות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/603160
+
+#EXTINF:-1 tvg-id="vamos-FREETV" tvg-name="IS: HOT VAMOS 4K" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Vamos.png",ואמוס
+#EXTGRP:🌐 עולם הטלנובלות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/603166
+
+#EXTINF:-1 tvg-id="turkish-drama-plus-YES" tvg-logo="https://MizaPo.github.io/picons/light/Turkish-Drama-Plus.png",ערוץ הדרמות הטורקיות+
+#EXTGRP:שפות זרות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/603163
+
+#EXTINF:-1 tvg-id="turkish-drama-2-YES" tvg-logo="https://MizaPo.github.io/picons/light/Turkish-Drama-2.png",ערוץ הדרמות הטורקיות 2
+#EXTGRP:שפות זרות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/603162
+
+#EXTINF:-1 tvg-id="turkish-drama-3-YES" tvg-logo="https://MizaPo.github.io/picons/light/Turkish-Drama-3.png",ערוץ הדרמות טורקיות 3
+#EXTGRP:שפות זרות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/603161
+
+#EXTINF:-1 tvg-id="indian-series-YES" tvg-logo="https://mizapo.github.io/picons/light/Indian-Series.png",ערוץ הסדרות ההודיות
+#EXTGRP:שפות זרות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/813535
+
+#EXTINF:-1 tvg-id="indian-series-2-YES" tvg-logo="https://mizapo.github.io/picons/light/Indian-Series2.png",ערוץ הסדרות ההודיות 2
+#EXTGRP:שפות זרות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/813534
+
+#EXTINF:-1 tvg-id="bollywood-hd-HOT" tvg-logo="https://MizaPo.github.io/picons/light/Yes-Bollywood.png",בוליווד
+#EXTGRP:שפות זרות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822235
+
+#EXTINF:-1 tvg-id="bollyshow-YES" tvg-name="IL: PARTNER TV BOLLYSHOW" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Bollywood-TV-Shows.png",בוליווד סדרות
+#EXTGRP:🌐 עולם הטלנובלות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822234
+
+#EXTINF:-1 tvg-id="cnn-YES" tvg-name="IL: PARTNER TV CNN" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/CNN.png",חדשות סי אן אן
+#EXTGRP:📰  חדשות מהעולם
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822212
+
+#EXTINF:-1 tvg-id="fox-news-YES" tvg-name="US: FOX NEWS HD" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Fox-News.png",חדשות פוקס
+#EXTGRP:📰  חדשות מהעולם
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/324923
+
+#EXTINF:-1 tvg-id="fox-business-HOT" tvg-name="US: FOX BUSINESS NETWORK HD" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Fox-Business.png",פוקס ביזנס
+#EXTGRP:📰  חדשות מהעולם
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/324925
+
+#EXTINF:-1 tvg-id="i24-en-YES" tvg-name="IL: PARTNER TV I24 NEWS ENGLISH" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/i24.png",באנגלית i24 חדשות
+#EXTGRP:📰  חדשות מהעולם
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822211
+
+#EXTINF:-1 tvg-id="i24-en-YES" tvg-name="IL: SCREEN TV I24 NEWS" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/i24.png",באנגלית i24 חדשות
+#EXTGRP:📰  חדשות מהעולם
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/825519
+
+#EXTINF:-1 tvg-id="i24-news-fr-HOT" tvg-name="IL: PARTNER TV I24 NEWS FRANCE" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/i24.png",בצרפתית i24 חדשות
+#EXTGRP:📰  חדשות מהעולם
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/822209
+
+#EXTINF:-1 tvg-id="i24-ar-YES" tvg-name="IL: I24NEWS ARABIC" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/i24.png",בערבית i24 חדשות
+#EXTGRP:📰  חדשות מהעולם
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832342
+
+#EXTINF:-1 tvg-id="i24-ar-YES" tvg-name="IL: PARTNER TV I24 NEWS ARABIC" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/i24.png",בערבית i24 חדשות
+#EXTGRP:📰  חדשות מהעולם
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/912612
+
+
+
+
+#EXTINF:-1 tvg-id="aljazeera-HOT" tvg-name="UK: AL JAZEERA EN HD" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Aljazeera.png",אל ג׳אזירה באנגלית
+#EXTGRP:📰  חדשות מהעולם
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/162148
+
+#EXTINF:-1 tvg-id="aljazeera-HOT" tvg-name="AR: Al Jazeera HD" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Aljazeera-AR.png",אל ג׳אזירה בערבית
+#EXTGRP:📰  חדשות מהעולם
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/499084
+
+#EXTINF:-1 tvg-id="israel-plus-9-YES" tvg-logo="https://MizaPo.github.io/picons/light/Channel-9.png",ערוץ 9
+#EXTGRP:שפות זרות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/477565
+
+#EXTINF:-1 tvg-id="israel-plus-9-YES" tvg-logo="https://MizaPo.github.io/picons/light/Channel-9.png",ערוץ 9
+#EXTGRP:שפות זרות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/669788
+
+#EXTINF:-1 tvg-id="israel-plus-9-YES" tvg-logo="https://MizaPo.github.io/picons/light/Channel-9.png",ערוץ 9
+#EXTGRP:שפות זרות
+http://gold.cdn-4k.cloud/226adb67d648/a6b24fb950/832350
