@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="https://github.com/dtp80/test02/raw/main/files/src/DikoPlusEPG.xml.gz"
-#EXTM3U url-tvg="https://github.com/dtp80/test02/raw/main/files/src/DikoPlusEPG.xml.gz"
 
 #EXTINF:-1 tvg-id="kan-11-YES" tvg-name="IS: YES CH 11 4K" tvg-logo="https://raw.githubusercontent.com/dtp80/test02/main/files/light/Kan-11.png",כאן 11
 #EXTGRP:✡️ ראשי
