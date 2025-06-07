@@ -28,20 +28,18 @@
     function performActualScroll() {
         var currentScrollTop = scrollableElement.scrollTop;
         var currentScrollHeight = scrollableElement.scrollHeight;
-        var clientHeight = scrollableElement.clientHeight;
+        var clientHeight = scrollableElement.clientHeight; // הגובה הנראה של האלמנט
 
         // בדוק אם אנחנו קרובים לתחתית
-        // clientHeight הוא גובה החלק הנראה של האלמנט
-        // currentScrollHeight - currentScrollTop הוא הגובה שנותר לגלול
-        // אם הגובה שנותר לגלול קטן או שווה לגובה הנראה + מרווח קטן (למשל 100px), אנחנו קרובים לסוף
-        if ((currentScrollHeight - currentScrollTop) <= (clientHeight + 100)) { 
-            console.log('ScrollerJS: Near bottom. Attempting to "jiggle" scroll: scrolling up slightly.');
-            scrollableElement.scrollTop = Math.max(0, currentScrollTop - 50); // גלול 50 פיקסלים למעלה
+        if ((currentScrollHeight - currentScrollTop) <= (clientHeight + 200)) { // הגדלתי את המרווח ל-200px
+            var scrollUpAmount = clientHeight * 0.3; // גלול למעלה 30% מגובה החלק הנראה
+            console.log('ScrollerJS: Near bottom. Attempting "BIG jiggle" scroll: scrolling up by ' + Math.round(scrollUpAmount) + 'px.');
+            scrollableElement.scrollTop = Math.max(0, currentScrollTop - scrollUpAmount);
 
             setTimeout(function() {
-                console.log('ScrollerJS: "Jiggle" scroll: scrolling to bottom.');
+                console.log('ScrollerJS: "BIG Jiggle" scroll: scrolling to bottom.');
                 scrollableElement.scrollTop = scrollableElement.scrollHeight;
-            }, 150); // אפשר לשחק עם ההמתנה הזו, אולי 150ms או 200ms
+            }, 250); // הגדלתי קצת את ההמתנה ל-250ms
         } else {
             scrollableElement.scrollTop = scrollableElement.scrollHeight;
         }
