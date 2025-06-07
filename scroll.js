@@ -1,10 +1,37 @@
 (function() {
-    // --- התאם את הפרמטרים האלה לפי הצורך ---
-    var totalScrollsToPerform = Math.ceil(250 / 11); // מטרה: 1000 מוצרים
-    var delayBetweenScrollsMs = 8000;                 // 8 שניות המתנה בין ניסיונות גלילה
-    var MAX_NO_CHANGE_ATTEMPTS = 7;                   // 7 ניסיונות כושלים לפני עצירה
-    // ------------------------------------------
+    // --- ערכי ברירת מחדל, אם המשתמש לא יזין או יבטל ---
+    var defaultTotalProducts = 255;
+    var defaultDelayMs = 8000;
+    var defaultMaxAttempts = 7;
+    var productsPerScroll = 11; // כמה מוצרים נטענים בערך בכל גלילה
 
+    // --- שאל את המשתמש פרמטרים ---
+    var userInputProducts = prompt("כמה מוצרים בערך לטעון בסך הכל?", defaultTotalProducts.toString());
+    var userInputDelay = prompt("כמה מילישניות המתנה בין גלילות (למשל, 8000 ל-8 שניות)?", defaultDelayMs.toString());
+    var userInputAttempts = prompt("כמה ניסיונות כושלים רצופים לפני עצירה?", defaultMaxAttempts.toString());
+
+    // --- המרת הקלט למספרים, וחזרה לברירת מחדל אם הקלט לא תקין או בוטל ---
+    var totalProductsToLoad = parseInt(userInputProducts, 10);
+    if (isNaN(totalProductsToLoad) || totalProductsToLoad <= 0) {
+        totalProductsToLoad = defaultTotalProducts;
+        alert("מספר המוצרים לא תקין, משתמש בברירת מחדל: " + defaultTotalProducts);
+    }
+
+    var delayBetweenScrollsMs = parseInt(userInputDelay, 10);
+    if (isNaN(delayBetweenScrollsMs) || delayBetweenScrollsMs < 1000) { // מינימום שנייה אחת
+        delayBetweenScrollsMs = defaultDelayMs;
+        alert("זמן ההמתנה לא תקין, משתמש בברירת מחדל: " + defaultDelayMs + "ms");
+    }
+
+    var MAX_NO_CHANGE_ATTEMPTS = parseInt(userInputAttempts, 10);
+    if (isNaN(MAX_NO_CHANGE_ATTEMPTS) || MAX_NO_CHANGE_ATTEMPTS <= 0) {
+        MAX_NO_CHANGE_ATTEMPTS = defaultMaxAttempts;
+        alert("מספר הניסיונות לא תקין, משתמש בברירת מחדל: " + defaultMaxAttempts);
+    }
+
+    var totalScrollsToPerform = Math.ceil(totalProductsToLoad / productsPerScroll);
+
+    // --- שאר הקוד נשאר כמעט זהה ---
     var scrollsDone = 0;
     var noChangeCount = 0;
     var lastScrollHeightOfContent = 0;
@@ -17,48 +44,44 @@
     }
 
     scrollableElement.style.outline = '3px dashed blue';
-    console.log('ScrollerJS: Attempting to start auto-scroll on #content...');
-    alert('מתחיל גלילה אוטומטית על #content.\nלחץ אישור כדי להתחיל.');
+    console.log('ScrollerJS: Starting auto-scroll for approx. ' + totalProductsToLoad + ' products.');
+    console.log('ScrollerJS: Delay: ' + delayBetweenScrollsMs + 'ms, Max Attempts: ' + MAX_NO_CHANGE_ATTEMPTS + ', Total Scrolls: ' + totalScrollsToPerform);
+    alert('מתחיל גלילה אוטומטית לטעינת כ-' + totalProductsToLoad + ' מוצרים.\nהמתנה: ' + (delayBetweenScrollsMs/1000) + ' שניות, ניסיונות מקסימליים: ' + MAX_NO_CHANGE_ATTEMPTS + '.\nלחץ אישור כדי להתחיל.');
 
     function getContentScrollHeight() {
         return scrollableElement.scrollHeight;
     }
 
-    // --- זו הפונקציה שצריך לשנות ---
     function performActualScroll() {
         var currentScrollTop = scrollableElement.scrollTop;
         var currentScrollHeight = scrollableElement.scrollHeight;
-        var clientHeight = scrollableElement.clientHeight; // הגובה הנראה של האלמנט
+        var clientHeight = scrollableElement.clientHeight;
 
-        // בדוק אם אנחנו קרובים לתחתית
-        if ((currentScrollHeight - currentScrollTop) <= (clientHeight + 200)) { // הגדלתי את המרווח ל-200px
-            var scrollUpAmount = clientHeight * 0.3; // גלול למעלה 30% מגובה החלק הנראה
-            console.log('ScrollerJS: Near bottom. Attempting "BIG jiggle" scroll: scrolling up by ' + Math.round(scrollUpAmount) + 'px.');
+        if ((currentScrollHeight - currentScrollTop) <= (clientHeight + 200)) {
+            var scrollUpAmount = clientHeight * 0.3;
+            console.log('ScrollerJS: Near bottom. "BIG jiggle": up by ' + Math.round(scrollUpAmount) + 'px.');
             scrollableElement.scrollTop = Math.max(0, currentScrollTop - scrollUpAmount);
 
             setTimeout(function() {
-                console.log('ScrollerJS: "BIG Jiggle" scroll: scrolling to bottom.');
+                console.log('ScrollerJS: "BIG Jiggle": scrolling to bottom.');
                 scrollableElement.scrollTop = scrollableElement.scrollHeight;
-            }, 250); // הגדלתי קצת את ההמתנה ל-250ms
+            }, 250);
         } else {
             scrollableElement.scrollTop = scrollableElement.scrollHeight;
         }
     }
-    // --- סוף הפונקציה ששונתה ---
 
     function scrollAndLoad() {
         if (scrollsDone >= totalScrollsToPerform) {
-            console.log('ScrollerJS: הסתיימה הגלילה (הגעה למספר גלילות רצוי). נטענו כ-' + (scrollsDone * 11) + ' מוצרים.');
-            alert('הסתיימה הגלילה! (הגעה למספר גלילות רצוי). נטענו כ-' + (scrollsDone * 11) + ' מוצרים.');
+            console.log('ScrollerJS: הסתיימה הגלילה (הגעה למספר גלילות רצוי). נטענו כ-' + (scrollsDone * productsPerScroll) + ' מוצרים.');
+            alert('הסתיימה הגלילה! (הגעה למספר גלילות רצוי). נטענו כ-' + (scrollsDone * productsPerScroll) + ' מוצרים.');
             scrollableElement.style.outline = 'none';
             return;
         }
 
-        // --- כאן לא משנים כלום ---
-        // קריאה לפונקציה ששונתה
-        performActualScroll(); 
+        performActualScroll();
         scrollsDone++;
-        console.log('ScrollerJS: גלילה #' + scrollsDone + '/' + totalScrollsToPerform + ' על #content. גובה נוכחי לפני טעינה: ' + lastScrollHeightOfContent);
+        console.log('ScrollerJS: גלילה #' + scrollsDone + '/' + totalScrollsToPerform + '. גובה נוכחי לפני טעינה: ' + lastScrollHeightOfContent);
         
         setTimeout(function() {
             var heightAfterLoadAttempt = getContentScrollHeight();
@@ -80,7 +103,6 @@
             
             scrollAndLoad();
         }, delayBetweenScrollsMs);
-        // --- סוף החלק שלא משנים ---
     }
     
     lastScrollHeightOfContent = getContentScrollHeight();
