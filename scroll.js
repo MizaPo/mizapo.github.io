@@ -1,9 +1,9 @@
 (function() {
     var scrollsDone = 0;
-    var totalScrollsToPerform = Math.ceil(200 / 11);
-    var delayBetweenScrollsMs = 6000; // נשנה את זה בהמשך אם צריך
+    var totalScrollsToPerform = Math.ceil(255 / 11);
+    var delayBetweenScrollsMs = 8000; // נשנה את זה בהמשך אם צריך
     var noChangeCount = 0;
-    var MAX_NO_CHANGE_ATTEMPTS = 2; // אפשר לשקול להגדיל ל-7 או 10
+    var MAX_NO_CHANGE_ATTEMPTS = 12; // אפשר לשקול להגדיל ל-7 או 10
     var lastScrollHeightOfContent = 0;
     var scrollableElement = document.querySelector('#content');
 
